@@ -1,0 +1,22 @@
+# ⚠️ NEVER upload your bot token!
+.env
+config.json
+
+# 🛠️ Ignore dependencies
+node_modules/
+package-lock.json
+
+# 🚀 Ignore log/debug files
+*.log
+logs/
+debug.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ⚙️ Ignore system/macOS files
+.DS_Store
+Thumbs.db
+
+# 🚀 Ignore VS Code settings (if using VS Code)
+.vscode/
